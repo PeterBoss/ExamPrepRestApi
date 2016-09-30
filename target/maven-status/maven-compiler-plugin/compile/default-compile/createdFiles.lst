@@ -1,0 +1,12 @@
+boss\rest_apis\ApplicationConfig.class
+boss\rest_apis\GenericResource.class
+boss\rest_apis\City.class
+boss\rest_apis\City_.class
+boss\rest_apis\CountrylanguagePK_.class
+boss\rest_apis\Country_.class
+boss\rest_apis\CountrylanguagePK.class
+boss\rest_apis\Countrylanguage.class
+boss\rest_apis\Country.class
+boss\rest_apis\JSONConverter.class
+boss\rest_apis\Facade.class
+boss\rest_apis\Countrylanguage_.class
